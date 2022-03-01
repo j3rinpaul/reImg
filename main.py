@@ -15,4 +15,5 @@ if __name__ == "__main__":
     if(args.resize):
         Img.image_resize(args.image,int(args.resize))
     if(args.extension):
-        Img.image_ext(args.image,args.extension)    
+        Img.image_ext(args.image,args.extension)  
+  
