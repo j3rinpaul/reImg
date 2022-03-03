@@ -6,7 +6,7 @@ Image resizer and extension changer using Python
 ## Team Id
 Python / 103
 ## Link to product walkthrough
-[link to video]
+  <a href="https://www.loom.com/share/e1118947890a4763a603cd78b1d4e7a5">Link to Video</a>
 ## Libraries used
 1. PIL Image
 2. Argparser
