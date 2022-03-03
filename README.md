@@ -15,4 +15,4 @@ Python / 103
 2. cd reImg
 3. pip install -r requirements.txt
 ## How to Run
-python3 main.py -r [width] -e [extension]
+python3 main.py [image file] -r [width] -e [extension]
