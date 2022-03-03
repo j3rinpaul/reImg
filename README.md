@@ -1,8 +1,8 @@
 # reImg
 Image resizer and extension changer using Python
 ## Team members
-1. <a href=https://github.com/mrwolfie13>Jerin Paul<a>
-2. <a href="#">Ayush<a>
+1. <a href="https://github.com/mrwolfie13">Jerin Paul<a>
+2. <a href="https://github.com/ayushkshaju">Ayush K<a>
 ## Team Id
 Python / 103
 ## Link to product walkthrough
