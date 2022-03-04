@@ -1,4 +1,4 @@
-Pillow==8.4.0
+pillow==8.4.0
 argparse==1.4.0
 random
 string
